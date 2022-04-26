@@ -6,11 +6,15 @@ Creating data visualizations in Tableau
 
 
 ## Results:
-
+Generate a Dashboard
 
 
 ## Summary:
 
 
-## Appendix
- 
+[Link to Dashboard]()
+## Tools
+- Tableau
+- Jupyter Notebook
+
+
