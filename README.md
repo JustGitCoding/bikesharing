@@ -9,12 +9,18 @@ Creating data visualizations in Tableau
 Generate a Dashboard
 
 
-## Summary:
+
+![Key Metrics](resources/metrics.png)
+![Trip Durations](resources/durations.png)
+![Heatmaps](resources/heatmaps.png)
+
+## Links:
 
 [View on GitHub Pages](JustGiCoding.github.io/bikesharing)
-[View on Tableau Public](https://public.tableau.com/views/Bikesharing_Viz/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Link to Tableau Public](https://public.tableau.com/views/Bikesharing_Viz/BikesharingProgram?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ## Tools
-- Tableau
-- Jupyter Notebook
+- Tableau Public
+- Python (Pandas library using Jupyter Notebook)
 
 
